@@ -10,3 +10,5 @@
 Если кто хочет просто поболтать или по делу, то пишите на почту:
 - object.tailogs@gmail.com
 - object.tailogs@yandex.com
+
+[Мой личный веб сайт](https://tailogs.github.io)
