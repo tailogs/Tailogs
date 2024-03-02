@@ -23,3 +23,7 @@
     <img src="https://media.giphy.com/media/VF0WIRjfwvFERopBFY/giphy.gif" alt="Атмосферный пк" width="300" style="weight=\"auto\"">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDA4c2dvdDhhOHNsdGF1a2QzNmg4OTZwdmQzbmprczd3bHRhazhoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" alt="ASCII Анимация ходьбы кота" width="300">
 </div>
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tailogs&theme=dracula&hide_border=true) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tailogs&show_icons=true&theme=dracula&hide_border=true) 
