@@ -1,11 +1,12 @@
 ### Привет. Я программирую на таких языках как:
-+ `HTML`, `CSS`,  `JS`
-+ `Python`, `Lua`, `AutoHotkey`
++ `HTML`, `CSS`,  `JS`, `PHP`
++ `Python`, `Lua`, `AutoHotkey`, `Ruby`
 + `Java`, `C#`
-+ `Kotlin`, `F#`
++ `Kotlin`, `F#`, `Haskell`
 + `Go`, `V`
 + `Processing`
 + `Shell` (`Batch`, `Powershell`, `Bash`)
++ `C++`, `C`, `Rust`, `Fasm`
 
 > Основная система у меня **Windows 10**, но я так же немного пользуюсь **Linux**. У меня в **VirtualBox** стоят дистрибутивы **Ubuntu** и **Manjaro** и мне они нравятся. Но я все ещё глупый в **Linux**.
 
