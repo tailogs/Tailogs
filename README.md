@@ -7,7 +7,7 @@
 - `Shell` (`Batch`, `Powershell`, `Bash`)
 - `C++`, `C`, `Rust`, `Go`
 
-Буду проверять языки: `Crystal`, `F#`, `Scala`, `Mint`, `Dart`, `Haxe`, `nekovm`, `zig`, `nim`
+Буду проверять языки: `Crystal`, `F#`, `Scala`, `Mint`, `Dart`, `Haxe`, `nekovm`, `zig`, `nim`, `factor`, `elixir`, `erlang`
 После проверки я удалю их всех или только часть. Возможно измениться и мой основной стек.
 Я стремлюсь к балансу между производительностью человека и железа
 
