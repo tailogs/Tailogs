@@ -3,7 +3,7 @@
 - `Python`, `Lua`, `AutoHotkey`, `Ruby`
 - `Java`, `C#`
 - `Kotlin`, `Haskell`, 
-- `Processing`
+- `Processing`, `Swift`, `V`
 - `Shell` (`Batch`, `Powershell`, `Bash`)
 - `C++`, `C`, `Rust`, `Go`
 
