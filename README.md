@@ -1,12 +1,10 @@
 Мои языки: 
 - `HTML`, `CSS`, `JS/TS`, `PHP`
-- `Python`, `Lua`, `AutoHotkey`, `Ruby`
-- `Java`, `C#`
+- `Python`, `Lua`, `Ruby`
+- `Java`, `C#`, `Haxe`
 - `Kotlin`, `Haskell`, 
 - `Processing`, `Go`, `V`
-- `Shell` (`Batch`, `Powershell`, `Bash`)
 
-Буду проверять языки: `Crystal`, `F#`, `Scala`, `Mint`, `Dart`, `Haxe`, `zig`, `nim`, , `elixir`, `erlang`
 После проверки я удалю их всех или только часть. Возможно измениться и мой основной стек.
 Я стремлюсь к балансу между производительностью человека и железа
 
