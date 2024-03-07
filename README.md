@@ -2,7 +2,7 @@
 - `HTML`, `CSS`, `JS/TS`, `PHP`
 - `Python`, `Lua`, `Ruby`
 - `Java`, `C#`, `Haxe`
-- `Kotlin`, `Haskell`, 
+- `Kotlin`, `Haskell`, `AuthoHotkey`
 - `Processing`, `Go`, `V`
 
 После проверки я удалю их всех или только часть. Возможно измениться и мой основной стек.
