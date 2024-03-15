@@ -13,7 +13,6 @@
 + `Kotlin`
 + `Go`
 + `C#`
-+ `F#`
 + `Python`
 + `Ruby`
 + `Processing`
