@@ -11,13 +11,19 @@
 Я программирую на
 + `Java`
 + `Kotlin`
-+ `Go`
 + `C#`
 + `Python`
 + `Ruby`
 + `Processing`
 + `HTML`, `CSS`, `JS/TS`
 
-Редко, но пишу на 
+Редко пишу или частично знаю 
 + `C/C++`
 + `Rust`
++ `V`
++ `Go`
++ `Nim`
++ `Haskell`
++ `F#`
++ `PHP`
+И другие...
