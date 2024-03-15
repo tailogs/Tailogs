@@ -17,3 +17,7 @@
 + `Ruby`
 + `Processing`
 + `HTML`, `CSS`, `JS/TS`
+
+Редко, но пишу на 
++ `C/C++`
++ `Rust`
