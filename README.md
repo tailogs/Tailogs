@@ -15,6 +15,5 @@
 + `F#`
 + `Python`
 + `Ruby`
-+ `PHP`
 + `Processing`
 + `HTML`, `CSS`, `JS/TS`
