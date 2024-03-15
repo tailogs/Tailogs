@@ -13,10 +13,8 @@
 + `Kotlin`
 + `C#`
 + `F#`
-+ `Haskell`
 + `Python`
 + `Ruby`
-+ `AutoHotkey`
 + `PHP`
 + `Processing`
 + `HTML`, `CSS`, `JS/TS`
